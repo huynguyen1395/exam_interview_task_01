@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.exam.tests.AcceptanceTestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 2, Time elapsed: 24.663 s <<< FAILURE! - in com.demo.exam.tests.AcceptanceTestSuite
+com.demo.exam.steps.DefinationLoginSteps.Given the user login with email 'quochuy13se03@gmail․com' and password 'testGmail1395'  Time elapsed: 6.48 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for net.serenitybdd.core.pages.RenderedPageObjectView$$Lambda$450/1901483377@7b079adf (tried for 5 second(s) with 50 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUYLAPTOP', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: unknown
+	at com.demo.exam.steps.DefinationLoginSteps.user_login(DefinationLoginSteps.java:30)
+

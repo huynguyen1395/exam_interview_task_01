@@ -1,0 +1,8 @@
+<story path="stories/email/TestSendEmail.story" title="">
+<scenario keyword="Scenario:" title="Test send email">
+<step outcome="successful">Given the user login with email &apos;quochuy13se03@gmail.com&apos; and password &apos;testGmail1395&apos;</step>
+<step outcome="successful">When the user compose email with &apos;quochuy13se02@gmail.com&apos; and &apos;Test&apos; and &apos;Test Email&apos;</step>
+<step outcome="successful">Then the user send email</step>
+<step outcome="successful">Then check sent email success</step>
+</scenario>
+</story>

@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Jul 22 13:07:14 ICT 2022
+total=27000
+threadAverage=27000
+stories/email/TestSendEmail.story=27000
+threads=1

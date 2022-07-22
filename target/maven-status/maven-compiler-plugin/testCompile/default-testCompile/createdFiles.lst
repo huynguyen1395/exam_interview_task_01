@@ -1,0 +1,7 @@
+com\demo\exam\steps\serenity\LoginSteps.class
+com\demo\exam\steps\serenity\CreateMailSteps.class
+com\demo\exam\steps\DefinationLoginSteps.class
+com\demo\exam\common\Configs.class
+com\demo\exam\tests\AcceptanceTestSuite.class
+com\demo\exam\pages\CreateMailPage.class
+com\demo\exam\pages\LoginPage.class
